@@ -1,7 +1,6 @@
 # Expressive Skeleton and Installer
 
-[![Build Status](https://secure.travis-ci.org/zendframework/zend-expressive-skeleton.svg?branch=master)](https://secure.travis-ci.org/zendframework/zend-expressive-skeleton)
-
+[![Build Status](https://travis-ci.org/treinaweb-git/github-flow.svg?branch=develop)](https://travis-ci.org/treinaweb-git/github-flow)
 *Begin developing PSR-7 middleware applications in seconds!*
 
 [zend-expressive](https://github.com/zendframework/zend-expressive) builds on
